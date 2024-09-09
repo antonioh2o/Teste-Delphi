@@ -1,0 +1,10 @@
+1)
+MVC -  (MODEL-VIEW-CONTROLLER)
+Padrão que fornece organização facilidade de manutenção de código.
+
+
+2)
+ Criacional – o padrão de projeto Singleton
+O padrão de projeto Singleton é um padrão criacional,  objetivo é criar apenas uma instância de uma classe e fornecer apenas um ponto global de acesso àquele objeto.
+ Um exemplo  calendário, onde você não pode fazer uma instância daquela classe.
+ 
