@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 21:52:13.000.408,=C:\Users\tonin\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/09/04 09:20:12.000.879,=C:\Users\tonin\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/09/06 16:16:11.000.598,=C:\Users\tonin\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/09/06 16:18:43.000.835,C:\TesteToTvs\Unit2.dfm=C:\Users\tonin\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2024/09/06 16:18:43.000.835,C:\TesteToTvs\Unit2.pas=C:\Users\tonin\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/09/06 16:18:46.000.268,C:\TesteToTvs\Project2.dproj=C:\Users\tonin\OneDrive\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2024/09/07 13:16:43.000.317,C:\TesteToTvs\uFrmConsultaCep.pas=C:\TesteToTvs\Unit2.pas</Transaction>
+    <Transaction>2024/09/07 13:16:43.000.317,C:\TesteToTvs\uFrmConsultaCep.dfm=C:\TesteToTvs\Unit2.dfm</Transaction>
+    <Transaction>2024/09/07 13:17:39.000.532,C:\TesteToTvs\ConsultaCep.dproj=C:\TesteToTvs\Project2.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
